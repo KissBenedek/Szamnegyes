@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szamnegyes_Konzol", "Szamnegyes_Konzol\Szamnegyes_Konzol.csproj", "{9F508C99-647C-4436-AC67-3B67138319BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szamnegyes_Desktop", "Szamnegyes_Desktop\Szamnegyes_Desktop.csproj", "{88262D62-AF11-4744-95FB-564209D21DEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9F508C99-647C-4436-AC67-3B67138319BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F508C99-647C-4436-AC67-3B67138319BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F508C99-647C-4436-AC67-3B67138319BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88262D62-AF11-4744-95FB-564209D21DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88262D62-AF11-4744-95FB-564209D21DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88262D62-AF11-4744-95FB-564209D21DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88262D62-AF11-4744-95FB-564209D21DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
